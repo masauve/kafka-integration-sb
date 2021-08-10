@@ -6,7 +6,7 @@
   <artifactId>RESTKafka</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <name>SB Kafka Producer</name>
-  <perties>
+  <properties>
     <fuse.version>7.8.0.fuse-sb2-780048-redhat-00001</fuse.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
